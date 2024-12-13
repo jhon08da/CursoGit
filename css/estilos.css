@@ -3,3 +3,7 @@ body{
     font-weight: bold;
     color: rgb(30, 78, 62);
 }
+p{
+    color: black;
+    border: 2px solid white;
+}
